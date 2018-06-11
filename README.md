@@ -1,5 +1,4 @@
 # Dictionary task
-dictionary task
 Write a C++ program that does the following:
 
 Use names.txt, a text file containing over 5000 first names, and sort it into alphabetical order.

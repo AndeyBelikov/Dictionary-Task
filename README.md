@@ -1,4 +1,4 @@
-# myDictionaryTask
+# Dictionary task
 dictionary task
 Write a C++ program that does the following:
 
